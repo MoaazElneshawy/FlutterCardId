@@ -1,6 +1,6 @@
 # card_id
 
-A new Flutter application.
+A basic flutter application to create a card id.
 
 ## Getting Started
 
